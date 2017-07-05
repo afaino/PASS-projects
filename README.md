@@ -1,4 +1,6 @@
-# hello-world
-test
+#some example code for a plot
 
-This could be an R code file or another type of file?
+xval<-c(1,2,3,4,5)
+yval<-c(6,3,7,9,15)
+
+plot(xval,yval)
